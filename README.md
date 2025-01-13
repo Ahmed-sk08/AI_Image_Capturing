@@ -18,9 +18,7 @@ Before running the app, ensure that you have the following dependencies installe
 - Pillow (for image processing)
 
 You can install the necessary libraries by running the following command:
-
-'''bash 
-pip install gradio transformers Pillow
+  pip install gradio transformers Pillow
 
 ## How to Run
 1. Set Up the Environment
