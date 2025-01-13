@@ -19,10 +19,10 @@ Before running the app, ensure that you have the following dependencies installe
 
 You can install the necessary libraries by running the following command:
 
-```bash
+'''bash 
 pip install gradio transformers Pillow
 
-How to Run
+## How to Run
 1. Set Up the Environment
 Create a Python virtual environment and activate it:
   pip install virtualenv
